@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522568675021",
+    "project_id": "sleshaproject",
+    "storage_bucket": "sleshaproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522568675021:android:3221aee28b9390c4630384",
+        "android_client_info": {
+          "package_name": "com.example.n_baz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522568675021-88fkp90e0jdqrpv3crv5m9am4c1si508.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXZnIIQ3z0CQih5kchUg7zbklafgXkaqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522568675021-88fkp90e0jdqrpv3crv5m9am4c1si508.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
