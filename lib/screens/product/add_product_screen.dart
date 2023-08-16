@@ -114,7 +114,7 @@ class _AddProductScreenState extends State<AddProductScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.black54,
+        backgroundColor: Colors.blueGrey,
         title: Text("Add a product"),
       ),
       body: Consumer<CategoryViewModel>(

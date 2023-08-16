@@ -177,7 +177,7 @@ class _SingleProductBodyState extends State<SingleProductBody> {
                     ),
                   ),
                   appBar: AppBar(
-                    backgroundColor: Colors.black54,
+                    backgroundColor: Colors.purple,
                     actions: [
                       Builder(builder: (context) {
                         FavoriteModel? isFavorite;

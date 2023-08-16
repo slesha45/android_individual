@@ -158,7 +158,7 @@ class _EditProductBodyState extends State<EditProductBody> {
           return Text("Error");
         return Scaffold(
           appBar: AppBar(
-            backgroundColor: Colors.black54,
+            backgroundColor: Colors.purple,
             title: Text("Edit a product"),
           ),
           body: Consumer<CategoryViewModel>(builder: (context, categoryVM, child) {

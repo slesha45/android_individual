@@ -81,8 +81,8 @@ class _DashboardScreenState extends State<DashboardScreen> {
         currentIndex: selectedIndex,
         selectedItemColor: Colors.blue,
         unselectedItemColor: Colors.blueGrey,
-        selectedLabelStyle: TextStyle(color: Colors.blue),
-        unselectedLabelStyle: TextStyle(color: Colors.blueGrey),
+        selectedLabelStyle: TextStyle(color: Colors.black),
+        unselectedLabelStyle: TextStyle(color: Colors.black),
         type: BottomNavigationBarType.fixed,
         onTap: _itemTapped,
         items: [
