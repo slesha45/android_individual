@@ -100,7 +100,7 @@ class _ForgetPasswordScreenState extends State<ForgetPasswordScreen> {
                     children: [
                       Text(
                         "Already know the password? ",
-                        style: TextStyle(color: Colors.grey.shade800),
+                        style: TextStyle(color: Colors.blueGrey.shade800),
                       ),
                       InkWell(
                           onTap: () {

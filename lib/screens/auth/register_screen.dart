@@ -301,7 +301,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       Text("Already have an account? ", style: TextStyle(
-                          color: Colors.grey.shade800
+                          color: Colors.blueGrey.shade800
                       ),),
                       InkWell(
                         onTap: (){
